@@ -57,7 +57,7 @@ random = 60
 # 详见: https://emby-keeper.github.io/guide/配置文件#telegram-子项
 
 [[telegram]]
-phone = "+8613526629699"
+phone = "+8613705284988"
 checkin = true
 send = false # 启用该账号的自动水群功能 (需要高级账号, 谨慎使用)
 monitor = false # 启用该账号的自动监控功能 (需要高级账号)
@@ -72,9 +72,9 @@ monitor = false # 启用该账号的自动监控功能 (需要高级账号)
 # 详见: https://emby-keeper.github.io/guide/配置文件#emby-子项
 
 [[emby]]
-url = "https://rose-liu.info/"
-username = "theresa93"
-password = "9!2ofDquyU"
+url = "https://https://embyplus.org:443/"
+username = "williampapa"
+password = "051500"
 time = [120, 240] # 模拟观看的时长范围 (秒)
 
 [[emby]]
